@@ -10,12 +10,6 @@ Initial Security()
  //Sample Code
 }
 
-feature1()
-{
-//feature 1 code 
-}
-SecurityPatch()
-{
-//Security patch added
-}
+
+
 }
