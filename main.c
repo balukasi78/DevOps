@@ -10,6 +10,9 @@ Initial Security()
  //Sample Code
 }
 
-
+SecurityPatch()
+{
+//Security patch added
+}
 
 }
